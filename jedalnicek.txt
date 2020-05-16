@@ -1,7 +1,7 @@
-Ranajky                                 |Kalorie    |Bielkoviny   |Sacharidy    |Cukry    |Tuky   |Horcik   |Vapnik   |Draslik  |
-========                                -------------------------------------------------------------------------------------------
-1.  2ks vajicko                         |175 kcal   |14g          |1.5g         |1.5g     |14g    |12mg     |65mg     |150mg    |
-    1.5 krajce chlieb bezglutenovy      |170 kcal   |7g           |37g          |3g       |2.5g   |20mg     |200mg    |80mg     |
+Ranajky
+========
+1.  2ks vajicko
+    1.5 krajce chlieb bezglutenovy
 
 2.  francuzska natierka
     1.5 krajca chlieb bezglutenovy
@@ -9,21 +9,21 @@ Ranajky                                 |Kalorie    |Bielkoviny   |Sacharidy    
 
 Desiata
 =======
-1.  1ks banan                           |85 kcal    |1g           |23g          |12mg     |0.3g   |27mg     |65mg     |350mg    |
+1.  1ks banan
     mandlove mlieko
 
 
 Obed
 ====
-1.  polievka zeleninova                 |100 kcal
-    kuracie masko na prirodno 150g      |250 kcal   |40g          |0g           |0g       |200g   |35mg     |22mg     |350mg    |
-    zemiaky varene 250g                 |160 kcal   |5g           |45g          |2g       |0.3g   |150mg    |350mg    |1000mg   |
-    varena spargla 200g                 |40  kcal
+1.  polievka zeleninova
+    kuracie masko na prirodno 150g
+    zemiaky varene 250g
+    varena spargla 200g
 
 
 Olovrant
 ========
-1.  tofu udene 100g                     |70 kcal
+1.  tofu udene 100g
 
 2.  avokado
     med
