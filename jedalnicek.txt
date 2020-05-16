@@ -3,10 +3,14 @@ Ranajky                                 |Kalorie    |Bielkoviny   |Sacharidy    
 1.  2ks vajicko                         |175 kcal   |14g          |1.5g         |1.5g     |14g    |12mg     |65mg     |150mg    |
     1.5 krajce chlieb bezglutenovy      |170 kcal   |7g           |37g          |3g       |2.5g   |20mg     |200mg    |80mg     |
 
+2.  francuzska natierka
+    1.5 krajca chlieb bezglutenovy
+
 
 Desiata
 =======
 1.  1ks banan                           |85 kcal    |1g           |23g          |12mg     |0.3g   |27mg     |65mg     |350mg    |
+    mandlove mlieko
 
 
 Obed
@@ -19,7 +23,11 @@ Obed
 
 Olovrant
 ========
-1.  tofu 100g                           |70 kcal
+1.  tofu udene 100g                     |70 kcal
+
+2.  avokado
+    med
+    citron
 
 
 2.Olovrant
@@ -32,3 +40,14 @@ Vecera
 1.  tuniak konzerva 80g                 |100 kcal   |21g          |0g           |0g       |1g     |20mg     |8mg      |180mg    |
     1.5 krajca chlieb bezglutenovy      |170 kcal   |7g           |37g          |3g       |2.5g   |20mg     |200mg    |80mg     |
     maslo delaktozovane 20g             |140 kcal
+
+
+
+
+
+francuzska natierka lunter (vodu, tofu, okara, cibula, repkovy olej, susene drozdie, kukuricny skrob, horcica, sol)
+zelenina
+ovocie - mango a papaja
+hummus
+omeleta
+cuketa
